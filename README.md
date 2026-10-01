@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```bash
 $ whoami
@@ -27,26 +27,26 @@ $ cat focus.txt
 > Defending networks, hunting threats, and keeping systems running smoothly.
 
 $ status
-> 🔐 Always learning. Always securing. Always improving.
+> Always learning. Always securing. Always improving.
 ```
 
 I'm an **IT and Cybersecurity professional** with hands-on experience across network defense, infrastructure, system administration, and security operations. I enjoy turning complex environments into secure, reliable, and well-monitored systems.
 
-- 🔭 Currently deepening my skills in **threat detection & incident response**
-- 🛡️ Passionate about **defensive security, SOC operations, and network hardening**
-- 🧪 Building home labs to practice **attack & defense scenarios**
-- 📚 Always studying for the next certification
-- 💬 Ask me about **firewalls, SIEM, networking, or Linux/Windows administration**
+- Currently deepening my skills in **threat detection & incident response**
+- Passionate about **defensive security, SOC operations, and network hardening**
+- Building home labs to practice **attack & defense scenarios**
+- Always studying for the next certification
+- Ask me about **firewalls, SIEM, networking, or Linux/Windows administration**
 
 ---
 
-## 🧰 Core Skills
+## Core Skills
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Network & Cybersecurity
+### Network & Cybersecurity
 - Firewalls & VPNs
 - IDS / IPS
 - Network security
@@ -56,7 +56,7 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Networking & Infrastructure
+### Networking & Infrastructure
 - TCP/IP, routing & switching
 - VLANs, DNS & DHCP
 - LAN / WAN & wireless
@@ -67,7 +67,7 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ System Administration & IT Support
+### System Administration & IT Support
 - Windows & Linux administration
 - User accounts & endpoint management
 - Software deployment
@@ -76,7 +76,7 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 </td>
 <td width="50%" valign="top">
 
-### 🚨 Security Operations (SOC)
+### Security Operations (SOC)
 - SIEM & log analysis
 - Incident response
 - Threat intelligence
@@ -89,7 +89,7 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <div align="center">
 
@@ -133,11 +133,9 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 
 </div>
 
-> 💡 *Edit the badges above to match the tools you actually use. Browse more at [shields.io](https://shields.io) and [simpleicons.org](https://simpleicons.org).*
-
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -152,17 +150,15 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 
 ---
 
-## 🧪 Home Lab & Projects
+## Home Lab & Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🔥 **Firewall Lab** | Designed a segmented network with firewall rules, VLANs, and VPN access | `pfSense` `VLANs` `OpenVPN` |
-| 🕵️ **SIEM Home SOC** | Built a mini SOC to collect logs, create alerts, and investigate incidents | `Splunk` `Sysmon` `Windows` |
-| 🛡️ **IDS/IPS Deployment** | Deployed and tuned IDS rules to detect scans and suspicious traffic | `Snort` `Suricata` `Wireshark` |
-| 🔍 **Vulnerability Management** | Scanned lab hosts, prioritized findings, and documented remediation | `Nessus` `Nmap` `OpenVAS` |
-| ⚙️ **Admin Automation Scripts** | Scripts to automate user provisioning, patching, and endpoint checks | `PowerShell` `Bash` `Python` |
-
-> 📌 *Replace these with your real projects and link them to their repositories.*
+| **Firewall Lab** | Designed a segmented network with firewall rules, VLANs, and VPN access | `pfSense` `VLANs` `OpenVPN` |
+| **SIEM Home SOC** | Built a mini SOC to collect logs, create alerts, and investigate incidents | `Splunk` `Sysmon` `Windows` |
+| **IDS/IPS Deployment** | Deployed and tuned IDS rules to detect scans and suspicious traffic | `Snort` `Suricata` `Wireshark` |
+| **Vulnerability Management** | Scanned lab hosts, prioritized findings, and documented remediation | `Nessus` `Nmap` `OpenVAS` |
+| **Admin Automation Scripts** | Scripts to automate user provisioning, patching, and endpoint checks | `PowerShell` `Bash` `Python` |
 
 ---
 
@@ -176,7 +172,7 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 
 ---
 
-## 🏆 Certifications & Platforms
+## Certifications & Platforms
 
 <div align="center">
 
@@ -192,7 +188,7 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 ![Fraud Prevention](https://img.shields.io/badge/Online_Fraud-Prevention_Specialist-C8202F?style=for-the-badge&logoColor=white)
 ![Phishing Prevention](https://img.shields.io/badge/Phishing_Prevention-Specialist_CTI_in_SOC-FA582D?style=for-the-badge&logoColor=white)
 
-### 🌐 Networking & Infrastructure
+### Networking & Infrastructure
 
 ![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Ruckus RACPA](https://img.shields.io/badge/Ruckus-RACPA-FF6B00?style=for-the-badge&logoColor=white)
@@ -207,11 +203,11 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://yourwebsite.com)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
