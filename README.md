@@ -99,19 +99,23 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Security & Monitoring**
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+**Security & Monitoring**
+
+![FortiAnalyzer](https://img.shields.io/badge/FortiAnalyzer-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![FortiManager](https://img.shields.io/badge/FortiManager-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![MISP](https://img.shields.io/badge/MISP-1E3A5F?style=for-the-badge&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-1E1E1E?style=for-the-badge&logo=nagios&logoColor=white)
+![LibreNMS](https://img.shields.io/badge/LibreNMS-1A4F8B?style=for-the-badge&logoColor=white)
+![Cacti](https://img.shields.io/badge/Cacti-4B8B3B?style=for-the-badge&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort_IDS%2FIPS-EE3124?style=for-the-badge&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00C1DE?style=for-the-badge&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E03C31?style=for-the-badge&logoColor=white)
+
 
 **Networking & Firewalls**
 
