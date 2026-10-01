@@ -130,12 +130,12 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=alainmugishabp-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainmugishabp-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0f2027" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alainmugishabp-byte&theme=tokyonight&hide_border=true&background=0f2027" alt="GitHub Streak" />
 
 </div>
 
