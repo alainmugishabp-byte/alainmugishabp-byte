@@ -1,17 +1,214 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- ========================= HEADER ========================= -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alainmugishabp-byte&label=Profile%20views&color=0e75b6&style=flat" alt="alainmugishabp-byte" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20YOUR%20NAME&fontSize=48&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=IT%20%26%20Cybersecurity%20Professional&descSize=20&descAlignY=58" alt="header banner" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainmugishabp-byte" alt="alainmugishabp-byte" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Network+%26+Cybersecurity+Specialist;SOC+Analyst+%7C+Threat+Hunter;Sysadmin+%7C+Infrastructure+Enthusiast;Securing+networks%2C+one+packet+at+a+time" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/alain-mugisha-362798129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/alain-mugisha-362798129" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00ff9c&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=0f2027&labelColor=203a43)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=0f2027&labelColor=203a43)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alainmugishabp-byte&show_icons=true&locale=en&layout=compact" alt="alainmugishabp-byte" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alainmugishabp-byte&show_icons=true&locale=en" alt="alainmugishabp-byte" /></p>
+---
+
+## 👨‍💻 About Me
+
+```bash
+$ whoami
+> IT & Cybersecurity Professional
+
+$ cat focus.txt
+> Defending networks, hunting threats, and keeping systems running smoothly.
+
+$ status
+> 🔐 Always learning. Always securing. Always improving.
+```
+
+I'm an **IT and Cybersecurity professional** with hands-on experience across network defense, infrastructure, system administration, and security operations. I enjoy turning complex environments into secure, reliable, and well-monitored systems.
+
+- 🔭 Currently deepening my skills in **threat detection & incident response**
+- 🛡️ Passionate about **defensive security, SOC operations, and network hardening**
+- 🧪 Building home labs to practice **attack & defense scenarios**
+- 📚 Always studying for the next certification
+- 💬 Ask me about **firewalls, SIEM, networking, or Linux/Windows administration**
+
+---
+
+## 🧰 Core Skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Network & Cybersecurity
+- Firewalls & VPNs
+- IDS / IPS
+- Network security
+- Threat detection
+- Security policies
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Networking & Infrastructure
+- TCP/IP, routing & switching
+- VLANs, DNS & DHCP
+- LAN / WAN & wireless
+- Network troubleshooting
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ System Administration & IT Support
+- Windows & Linux administration
+- User accounts & endpoint management
+- Software deployment
+- Troubleshooting & technical support
+
+</td>
+<td width="50%" valign="top">
+
+### 🚨 Security Operations (SOC)
+- SIEM & log analysis
+- Incident response
+- Threat intelligence
+- Vulnerability management
+- Security monitoring
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<div align="center">
+
+**Operating Systems & Scripting**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Security & Monitoring**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort_IDS%2FIPS-EE3124?style=for-the-badge&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C1DE?style=for-the-badge&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E03C31?style=for-the-badge&logoColor=white)
+
+**Networking & Firewalls**
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+
+**Infrastructure & Admin**
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+> 💡 *Edit the badges above to match the tools you actually use. Browse more at [shields.io](https://shields.io) and [simpleicons.org](https://simpleicons.org).*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0f2027" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🧪 Home Lab & Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🔥 **Firewall Lab** | Designed a segmented network with firewall rules, VLANs, and VPN access | `pfSense` `VLANs` `OpenVPN` |
+| 🕵️ **SIEM Home SOC** | Built a mini SOC to collect logs, create alerts, and investigate incidents | `Splunk` `Sysmon` `Windows` |
+| 🛡️ **IDS/IPS Deployment** | Deployed and tuned IDS rules to detect scans and suspicious traffic | `Snort` `Suricata` `Wireshark` |
+| 🔍 **Vulnerability Management** | Scanned lab hosts, prioritized findings, and documented remediation | `Nessus` `Nmap` `OpenVAS` |
+| ⚙️ **Admin Automation Scripts** | Scripts to automate user provisioning, patching, and endpoint checks | `PowerShell` `Bash` `Python` |
+
+> 📌 *Replace these with your real projects and link them to their repositories.*
+
+---
+
+## 🎯 Currently Learning / Goals
+
+- [x] Core networking & system administration
+- [x] SOC fundamentals & log analysis
+- [ ] Advanced threat hunting & detection engineering
+- [ ] Cloud security (Azure / AWS)
+- [ ] Next certification: **CompTIA Security+ / CySA+ / CCNA** *(update as needed)*
+
+---
+
+## 🏆 Certifications & Platforms
+
+<div align="center">
+
+![CompTIA](https://img.shields.io/badge/CompTIA-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/YOUR_ID)
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-1F2A44?style=for-the-badge&logoColor=white)](https://letsdefend.io)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://yourwebsite.com)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+"Security is not a product, but a process." — Bruce Schneier
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%"/>
+
+</div>
