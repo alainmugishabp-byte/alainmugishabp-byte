@@ -123,7 +123,7 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 
 <div align="center">
   
-## Languages & Scripting
+**Languages & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
