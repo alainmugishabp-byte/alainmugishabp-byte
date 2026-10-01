@@ -20,14 +20,6 @@
 ## About Me
 
 ```bash
-$ whoami
-> IT & Cybersecurity Professional
-
-$ ls skills/
-> firewalls/  siem/  incident-response/  networking/  linux/  windows/
-
-$ cat mission.txt
-> Defend networks, hunt threats, keep systems running.
 
 ```
 
