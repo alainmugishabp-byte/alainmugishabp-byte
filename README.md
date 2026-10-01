@@ -20,9 +20,15 @@
 ## About Me
 
 ```bash
-## 👨‍💻 About Me
+$ whoami
+> IT & Cybersecurity Professional
 
-I'm an **IT and Cybersecurity professional** specializing in network defense, infrastructure, system administration, and security operations.
+$ ls skills/
+> firewalls/  siem/  incident-response/  networking/  linux/  windows/
+
+$ cat mission.txt
+> Defend networks, hunt threats, keep systems running.
+
 ```
 
 I'm an **IT and Cybersecurity professional** with hands-on experience across network defense, infrastructure, system administration, and security operations. I enjoy turning complex environments into secure, reliable, and well-monitored systems.
