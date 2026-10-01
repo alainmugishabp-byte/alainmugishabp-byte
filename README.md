@@ -123,7 +123,7 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
----
+
 <div align="center">
 ## Languages & Scripting
 
