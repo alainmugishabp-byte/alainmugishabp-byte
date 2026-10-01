@@ -171,7 +171,7 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 - [x] SOC fundamentals & log analysis
 - [x] Advanced threat hunting & detection engineering
 - [ ] Cloud security (Azure / AWS)
-- [ ] Next certification: **CCNP Security / CEH / NSE3**
+- [ ] Next certification: **CCNP Security / CEH / NSE4**
 
 ---
 
