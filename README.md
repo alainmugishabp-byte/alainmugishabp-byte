@@ -222,7 +222,7 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 <div align="center">
 
 ```text
-"Security is not a product, but a process." — Bruce Schneier
+"In the world of network operations, continuous monitoring is not just a task, it's a commitment to excellence." — Alain MUGISHA
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%"/>
