@@ -124,6 +124,19 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 
 </div>
 
+<div align="center">
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
 ---
 
 ## GitHub Stats
@@ -134,6 +147,7 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainmugishabp-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="Top Languages" />
 
 <br/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alainmugishabp-byte&theme=tokyonight&hide_border=true&background=0f2027" alt="GitHub Streak" />
 
