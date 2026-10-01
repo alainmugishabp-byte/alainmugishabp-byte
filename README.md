@@ -169,9 +169,9 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 
 - [x] Core networking & system administration
 - [x] SOC fundamentals & log analysis
-- [ ] Advanced threat hunting & detection engineering
+- [x] Advanced threat hunting & detection engineering
 - [ ] Cloud security (Azure / AWS)
-- [ ] Next certification: **CompTIA Security+ / CySA+ / CCNA** *(update as needed)*
+- [ ] Next certification: **CCNP Security / CEH / NSE3**
 
 ---
 
