@@ -104,8 +104,6 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 
 **Security & Monitoring**
 
-**Security & Monitoring**
-
 ![FortiAnalyzer](https://img.shields.io/badge/FortiAnalyzer-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![FortiManager](https://img.shields.io/badge/FortiManager-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![MISP](https://img.shields.io/badge/MISP-1E3A5F?style=for-the-badge&logoColor=white)
