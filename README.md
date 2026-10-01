@@ -9,9 +9,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00ff9c&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=0f2027&labelColor=203a43)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=0f2027&labelColor=203a43)
+![Profile Views](https://komarev.com/ghpvc/?username=alainmugishabp-byte&label=Profile%20Views&color=00ff9c&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/alainmugishabp-byte?style=for-the-badge&logo=github&color=0f2027&labelColor=203a43)
+![Stars](https://img.shields.io/github/stars/alainmugishabp-byte?style=for-the-badge&logo=github&color=0f2027&labelColor=203a43)
 
 </div>
 
