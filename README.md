@@ -116,8 +116,6 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 **Networking & Firewalls**
 
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![Palo Alto](https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
 ![Sophos](https://img.shields.io/badge/Sophos-0057B8?style=for-the-badge&logo=sophos&logoColor=white)
 ![Check Point](https://img.shields.io/badge/Check_Point-E6007E?style=for-the-badge&logo=checkpoint&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
