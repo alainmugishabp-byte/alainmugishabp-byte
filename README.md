@@ -162,7 +162,7 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 
 ---
 
-## 🎯 Currently Learning / Goals
+## Currently Learning / Goals
 
 - [x] Core networking & system administration
 - [x] SOC fundamentals & log analysis
@@ -207,10 +207,9 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alain-mugisha-362798129)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mugisha.alainbp@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://yourwebsite.com)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
 
 </div>
 
