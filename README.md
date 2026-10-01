@@ -23,8 +23,11 @@
 $ whoami
 > IT & Cybersecurity Professional
 
-$ cat focus.txt
-> Defending networks, hunting threats, and keeping systems running smoothly.
+$ ls skills/
+> firewalls/  siem/  incident-response/  networking/  linux/  windows/
+
+$ cat mission.txt
+> Defend networks, hunt threats, keep systems running.
 
 $ status
 > Always learning. Always securing. Always improving.
