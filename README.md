@@ -180,12 +180,28 @@ I'm an **IT and Cybersecurity professional** with hands-on experience across net
 
 <div align="center">
 
-![CompTIA](https://img.shields.io/badge/CompTIA-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/YOUR_ID)
-[![LetsDefend](https://img.shields.io/badge/LetsDefend-1F2A44?style=for-the-badge&logoColor=white)](https://letsdefend.io)
+![Fortinet NSE 1](https://img.shields.io/badge/Fortinet-NSE_1-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Fortinet NSE 2](https://img.shields.io/badge/Fortinet-NSE_2-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Fortinet NSE 3](https://img.shields.io/badge/Fortinet-NSE_3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001:2022-Lead_Auditor-0A5C99?style=for-the-badge&logoColor=white)
+![ISO 27701](https://img.shields.io/badge/ISO%2FIEC_27701:2025-Lead_Auditor-0A5C99?style=for-the-badge&logoColor=white)
+![EHE](https://img.shields.io/badge/Ethical_Hacking-Essentials_EHE-8B0000?style=for-the-badge&logoColor=white)
+![CFSS](https://img.shields.io/badge/SOC_Analyst-CFSS-1E3A5F?style=for-the-badge&logoColor=white)
+![OPSWAT](https://img.shields.io/badge/OPSWAT-Security_Certifications-0072CE?style=for-the-badge&logoColor=white)
+![CTI](https://img.shields.io/badge/CTI-for_SOC_Analyst-005571?style=for-the-badge&logoColor=white)
+![Fraud Prevention](https://img.shields.io/badge/Online_Fraud-Prevention_Specialist-C8202F?style=for-the-badge&logoColor=white)
+![Phishing Prevention](https://img.shields.io/badge/Phishing_Prevention-Specialist_CTI_in_SOC-FA582D?style=for-the-badge&logoColor=white)
+
+### 🌐 Networking & Infrastructure
+
+![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Ruckus RACPA](https://img.shields.io/badge/Ruckus-RACPA-FF6B00?style=for-the-badge&logoColor=white)
+![Ruckus RASZA](https://img.shields.io/badge/Ruckus-RASZA-FF6B00?style=for-the-badge&logoColor=white)
+![APNIC IPv6](https://img.shields.io/badge/APNIC-IPv6-2E7D32?style=for-the-badge&logoColor=white)
+![APNIC MPLS](https://img.shields.io/badge/APNIC-MPLS-2E7D32?style=for-the-badge&logoColor=white)
+![Load Balancer](https://img.shields.io/badge/Load_Balancer-Certified-6A1B9A?style=for-the-badge&logoColor=white)
+![Network Technician](https://img.shields.io/badge/Network-Technician-455A64?style=for-the-badge&logoColor=white)
+![Data Center](https://img.shields.io/badge/Data_Center-Professional_Certification-212121?style=for-the-badge&logoColor=white)
 
 </div>
 
