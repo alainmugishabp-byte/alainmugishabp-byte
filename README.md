@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=%20Alain%20MUGISHA&fontSize=48&fontColor=00ff9c&fontAlignY=38&desc=IT%20and%20Cybersecurity%20Professional&descSize=20&descAlignY=58" alt="header banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00000C&center=true&vCenter=true&width=700&lines=Network+%26+Cybersecurity+Specialist;SOC+Analyst+%7C+Threat+Hunter;Sysadmin+%7C+Infrastructure+Enthusiast;Securing+networks%2C+one+packet+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=01FF9C&center=true&vCenter=true&width=700&lines=Network+%26+Cybersecurity+Specialist;SOC+Analyst+%7C+Threat+Hunter;Sysadmin+%7C+Infrastructure+Enthusiast;Securing+networks%2C+one+packet+at+a+time" alt="Typing SVG" />
 </a>
 
 <br/>
